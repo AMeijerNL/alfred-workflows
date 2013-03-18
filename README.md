@@ -1,5 +1,4 @@
-Alfred Workflows
-================
+# Alfred Workflows
 
 My personal collection of useful Alfred Workflows, to boost productivity during (frontend) development.
 
@@ -8,14 +7,21 @@ My personal collection of useful Alfred Workflows, to boost productivity during 
 * IP Address
 * Open folder in Sublime Text
 * Open folder in Terminal
-* Open in Adobe Illustrator
-* Open in Adobe Photoshop
+* Open in Adobe Illustrator (confirmed for CS5)
+* Open in Adobe Photoshop (confirmed for CS5)
 * Password Generator
 * Paste as plain text from hotkey
 * Recent Documents
 * Spotify
 * WiFi Toggler
 * VirtualBox Control
+
+
+
+# Notice
+
+* The Open in Adobe ... workflows support: CS6, CS5.5, CS5, CS4, CS3 and CS2.
+* So far, only confirmed correct usage for: CS5!
 
 
 Credits belong to the authors of each workflow. 
